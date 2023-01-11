@@ -1,7 +1,7 @@
 # Automatic Detection of Mode Interactions Using Machine Learning
-## Supervised by Dr Renson
-## Imperial College London
-## Department of Mechanical Engineering
+**Supervised by Dr Renson**
+**Imperial College London**
+**Department of Mechanical Engineering**
 
 ## Context and introduction
 
