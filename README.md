@@ -1,6 +1,6 @@
 # Automatic Detection of Mode Interactions Using Machine Learning
-**Supervised by Dr Renson**
-**Imperial College London**
+**Supervised by Dr Renson**\
+**Imperial College London**\
 **Department of Mechanical Engineering**
 
 ## Context and introduction
@@ -14,8 +14,3 @@ The aim of this project is therefore to add modal interaction detection to the l
 This project aims to automatise the detection of mode interactions relying on established Machine Learning techniques. Therefore, the project’s first objective is to **learn how to recognise these interactions** and understand the **conditions and parameters that favour them**.
 Physicists usually rely on scalogram analysis to detect interactions. The algorithms will have to be trained with those scalograms, which entails **creating scalogram datasets** and classifying them according to whether they present modal interactions. We will also have to write scaling and pre-processing algorithms to obtain clean data and increase the accuracy and efficiency of the machine learning models.
 We will then **train and test different Machine Learning models** and techniques in order to select those best suited for this classification problem. Finally the algorithms will be **tested on real-life data** and examples.
-The project goals are, therefore:
--	Identifying the patterns, parameters and favourable conditions of modal interactions.
--	Creating scalogram datasets of nonlinear models with and without model interactions.
--	Training and cross-validating different Machine Learning models on those datasets.
--	Testing them on real-life data
